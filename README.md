@@ -1,4 +1,10 @@
 ### Hi there, i'm João Jacinto 👋
+
+Sou um jovem apaixonado por tecnologia e ciências exatas buscando contínua evolução. 
+
+Stacks e tecnologias:
+HTML, CSS, Design Responsivo, JavaScript, Angular, Node.JS, Express, Handlebars, SQL, GIT, Redes de computadores e Manutenção e instalação de computadores. 
+
 <div align="center">
   <a href="https://github.com/mrgreentm">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrgreentm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
