@@ -3,7 +3,7 @@
 Sou um jovem apaixonado por tecnologia e ciências exatas buscando contínua evolução. 
 
 Stacks e tecnologias:
-HTML, CSS, Design Responsivo, JavaScript, Angular, Node.JS, NestJS, Sequelize, typeORM, Express, Handlebars, SQL, GIT, Redes de computadores e Manutenção e instalação de computadores. 
+HTML, CSS, Design Responsivo, JavaScript, Angular, Node.JS, NestJS, Sequelize, typeORM, Express, GraphQL, Handlebars, SQL, GIT, Redes de computadores e Manutenção e instalação de computadores. 
 
 <div align="center">
   <a href="https://github.com/mrgreentm">
