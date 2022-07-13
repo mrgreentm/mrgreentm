@@ -11,9 +11,15 @@ HTML, CSS, Design Responsivo, JavaScript, Angular, Node.JS, NestJS, Sequelize, t
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgreentm&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-
+<div align="center">
   <a href = "mailto:joaonetotfm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-jacinto-a927301b2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql">
+  <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
+  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
+  <img src="https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white">
+</div>
 <div align="center">
   <img height="180em"src="https://i.ibb.co/XFy9Kp6/te.gif" alt="te" border="0">
 </div>
