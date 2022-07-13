@@ -17,3 +17,6 @@ HTML, CSS, Design Responsivo, JavaScript, Angular, Node.JS, NestJS, Sequelize, t
 <div>
   <img height="180em"src="https://i.ibb.co/XFy9Kp6/te.gif" alt="te" border="0">
 </div>
+<div>
+  <img height="180em" src="https://i.ibb.co/RBFbZwv/gatoo.gif" alt="gatoo" border="0">
+</div>
