@@ -1,4 +1,4 @@
-### Hi there, i'm João Jacinto 👋
+# Hi there, i'm João Jacinto 👋
 
 Sou um jovem apaixonado por tecnologia e ciências exatas buscando contínua evolução. 
 
@@ -16,5 +16,4 @@ HTML, CSS, Design Responsivo, JavaScript, Angular, Node.JS, NestJS, Sequelize, t
   <a href="https://www.linkedin.com/in/jo%C3%A3o-jacinto-a927301b2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <div>
   <img height="180em"src="https://i.ibb.co/XFy9Kp6/te.gif" alt="te" border="0">
-  <img height="180em src="https://2.bp.blogspot.com/-bgpEshHji4Q/WbsCOUzbPUI/AAAAAAAABcA/5LcziniGMWQhXYQhb1OjCKCXGBenu95GgCLcBGAs/s1600/gato%2Btecleando.gif" alt="gat" border="0">
 </div>
