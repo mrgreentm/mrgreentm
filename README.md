@@ -23,4 +23,5 @@ HTML, CSS, Design Responsivo, JavaScript, Angular, Node.JS, NestJS, Sequelize, t
 <div align="center">
   <img height="180em"src="https://i.ibb.co/XFy9Kp6/te.gif" alt="te" border="0">
 </div>
+  ![Snake animation](https://github.com/mrgreentm/mrgreentm/blob/output/github-contribution-grid-snake.svg)
 
