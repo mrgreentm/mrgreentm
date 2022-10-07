@@ -7,8 +7,8 @@ HTML, CSS, Design Responsivo, JavaScript, Angular, Node.JS, NestJS, Sequelize, t
 
 <div align="center">
   <a href="https://github.com/mrgreentm">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrgreentm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgreentm&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mrgreentm&count_private=true&include_all_commits=true&show_icons=true&theme=nightowl&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgreentm&theme=nightowl&hide_border=false&&layout=compact"/>
 </div>
 
 <div align="center">
