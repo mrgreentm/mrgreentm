@@ -1,9 +1,47 @@
 # Hi there, i'm João Jacinto 👋
 
-Sou um jovem apaixonado por tecnologia e ciências exatas buscando contínua evolução. 
+Olá, meu nome é João! Sou apaixonado por tecnologia e ciências exatas buscando contínua evolução. 
+
+Estudante de Ciência da Computação na Universidade Federal de Alagoas
 
 Stacks e tecnologias:
-HTML, CSS, Design Responsivo, JavaScript, Angular, Node.JS, NestJS, Sequelize, typeORM, Express, GraphQL, Handlebars, SQL, GIT, Redes de computadores e Manutenção e instalação de computadores. 
+
+Linguagens de Alto nível:
+- JavaScript, 
+- TypeScript,
+- Python, 
+- Java, 
+
+Linguagens de Baixo nível:
+- C ( Linguagem de Programação ),
+- Assembly,
+
+Frameworks / Libs:
+- Angular, 
+- RxJS,
+- NgRx,
+- Jest,
+- Jasmine,
+- Cypress,
+- Node.JS, 
+- NestJS,
+- Flask, 
+- GraphQL,
+- Sequelize,
+- TypeORM,
+- Express, 
+
+Outras Linguagens / Skills:
+- HTML, 
+- CSS, 
+- Design Responsivo, 
+- Handlebars, 
+- SQL, 
+- GIT,
+- AWS (S3 e Cloud Front), 
+- Redes de computadores e 
+Manutenção e instalação de computadores. 
+
 
 <div align="center">
   <a href="https://github.com/mrgreentm">
