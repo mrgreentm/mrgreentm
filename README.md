@@ -13,7 +13,6 @@ Linguagens de Alto nível:
 - Java, 
 
 Linguagens de Baixo nível:
-- C ( Linguagem de Programação ),
 - Assembly,
 
 Frameworks / Libs:
