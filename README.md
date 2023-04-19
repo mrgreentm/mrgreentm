@@ -11,6 +11,7 @@ Linguagens de Alto nível:
 - TypeScript,
 - Python, 
 - Java, 
+- C
 
 Linguagens de Baixo nível:
 - Assembly,
