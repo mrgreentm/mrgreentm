@@ -67,6 +67,10 @@ Manutenção e instalação de computadores.
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
 </div>
 <div align="center">
+  <img height="180em"src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" alt="te" border="0">
+</div>
+<div align="center">
   <img height="180em"src="https://i.ibb.co/XFy9Kp6/te.gif" alt="te" border="0">
 </div>
+
 
