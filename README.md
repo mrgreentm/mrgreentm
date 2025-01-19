@@ -68,5 +68,7 @@ Manutenção e instalação de computadores.
 </div>
 <div align="center">
   <img height="180em"src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" alt="te" border="0">
+  ![image](https://github.com/user-attachments/assets/4663855f-a559-4bf4-ac4e-3cfa6c504e51)
+
 </div>
 
