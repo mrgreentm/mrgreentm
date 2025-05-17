@@ -42,7 +42,9 @@ Outras Linguagens / Skills:
 - Redes de computadores e 
 Manutenção e instalação de computadores. 
 
-<img align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnV5cnlpdnkxamw3bnF3b3d1dDVndXlmamNoaTJkbjFheGVzcXd6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f4V2mqvv0wT9m/giphy.gif">
+<div align="center" >
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnV5cnlpdnkxamw3bnF3b3d1dDVndXlmamNoaTJkbjFheGVzcXd6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f4V2mqvv0wT9m/giphy.gif">
+</div>
 <div align="center">
   <a href="https://github.com/mrgreentm">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mrgreentm&count_private=true&include_all_commits=true&show_icons=true&theme=nightowl&hide_border=false&show_owner=true"/>
