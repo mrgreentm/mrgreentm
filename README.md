@@ -46,6 +46,11 @@ Manutenção e instalação de computadores.
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnV5cnlpdnkxamw3bnF3b3d1dDVndXlmamNoaTJkbjFheGVzcXd6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f4V2mqvv0wT9m/giphy.gif">
 </div>
 <div align="center">
+  <a href="https://open.spotify.com/user/31xhzuujhtkzauhgadian2h4muom">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31xhzuujhtkzauhgadian2h4muom&count=3&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+<div align="center">
   <a href="https://github.com/mrgreentm">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mrgreentm&count_private=true&include_all_commits=true&show_icons=true&theme=nightowl&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgreentm&theme=nightowl&hide_border=false&&layout=compact"/>
