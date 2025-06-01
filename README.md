@@ -6,6 +6,59 @@ Busco crescimento contínuo como desenvolvedor completo, unindo frontend, backen
 
 ---
 
+## 🛠️ Experiência Profissional
+
+### 📌 Itaú Unibanco
+
+**Engenheiro de Software Sênior**  
+📅 Abr de 2025 – o momento  
+📍 Remoto — São Paulo, Brasil  
+- Ponto focal em arquitetura de soluções multicanais.  
+- Referência técnica em frontend e microfrontends.  
+- Desenvolvimento de agente de IA para automação de infraestrutura.  
+- Backend com Kotlin + Spring Boot, soluções com AWS e monitoramento com Datadog.
+
+**Engenheiro de Software Pleno**  
+📅 Mai de 2024 – Abr de 2025  
+📍 Remoto — São Paulo, Brasil  
+- Squad Cobrar e Pagar – Cartões PJ.  
+- Desenvolvimento em Angular, Spring Boot, QuickCloud.  
+- Infraestrutura em AWS (API Gateway, SNS, SQS, RDS, S3, ECS, etc.).  
+- Monitoramento com CloudWatch.
+
+**Engenheiro de Software Júnior**  
+📅 Nov de 2022 – Mai de 2024  
+📍 Remoto — São Paulo, Brasil  
+- Squad Mesa de Operações – Empréstimos Consignados.  
+- Modernização com Angular + microfrontends.  
+- Backend em Spring Boot com Clean Architecture.  
+- Testes automatizados (Jest, Cypress).  
+- Infraestrutura com AWS + pipelines com CloudFormation e CodePipeline.
+
+---
+
+### 📌 Broadfactor
+
+**Desenvolvedor Frontend**  
+📅 Jun de 2022 – Nov de 2022  
+📍 Remoto — Joinville, SC  
+- Modernização de sistemas legados com Angular.  
+- Desenvolvimento de funcionalidades para Antecipagov.  
+- Atuação com CI/CD e serviços AWS.
+
+---
+
+### 📌 SENAI Alagoas
+
+**Desenvolvedor Full Stack**  
+📅 Jul de 2021 – Jun de 2022  
+📍 Presencial — Maceió, AL  
+- Projetos: Senai Play, Lean, KickStart.  
+- Stack: Angular, NestJS, TypeORM.  
+- Desenvolvimento de dashboards, autenticação 2FA, e gráficos interativos.
+
+---
+
 ## 🚀 Tecnologias & Stacks
 
 ### 👨‍💻 Linguagens
