@@ -108,6 +108,7 @@ Busco crescimento contínuo como desenvolvedor completo, unindo frontend, backen
 
 <div align="center">
   <img height="120em" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" alt="AWS Certified Cloud Practitioner"/>
+    <img height="120em" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" alt="AWS Certified Cloud Solutions architect"/>
 </div>
 
 ---
